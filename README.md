@@ -1,5 +1,8 @@
 # Practice DSA and upgrade your coding skills by solving these problems!
-This repository contains a collection of Data Structures and Algorithms (DSA) problems designed to help you enhance your coding skills. Whether you're a beginner or an experienced programmer, practicing these problems will improve your problem-solving abilities and prepare you for technical interviews.
+This repository contains a collection of Data Structures and Algorithms problems designed to help you enhance your coding skills. Whether you're a beginner or an experienced programmer, practicing these problems will improve your problem-solving abilities and prepare you for technical interviews.
+
+## ⚠️ Important Disclaimer
+**Please DO NOT use AI agents, ChatGPT, Copilot, or any other AI-related technology to solve these problems.** The primary goal of this repository is to develop your problem-solving and coding skills. Using AI tools to generate solutions defeats the purpose of learning and will hinder your development as a programmer. Solve these problems on your own to truly understand the concepts and improve your abilities.
 
 ## Getting Started
 To get started, fork this repository on GitHub, then clone your fork to your local machine:
